@@ -84,5 +84,4 @@
             <url>http://download.java.net/maven/glassfish</url>
         </pluginRepository>
     </pluginRepositories>
-    <name>Proyecto_Ing_Software</name>
 </project>
